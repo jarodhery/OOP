@@ -1,0 +1,12 @@
+﻿  Book.cpp
+  Date.cpp
+  LibApp.cpp
+  LibAppMain.cpp
+  Menu.cpp
+  Publication.cpp
+C:\Users\User\Desktop\Everything\Courses\Visual Studio\A PAINFUL THING\A PAINFUL THING\Menu.cpp(108,46): warning C4018: '>': signed/unsigned mismatch
+  PublicationSelector.cpp
+  Streamable.cpp
+  Utils.cpp
+  Generating Code...
+  A PAINFUL THING.vcxproj -> C:\Users\User\Desktop\Everything\Courses\Visual Studio\A PAINFUL THING\x64\Debug\A PAINFUL THING.exe
